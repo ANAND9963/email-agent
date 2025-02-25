@@ -14,5 +14,7 @@ export const config: BaseAIConfig = {
 	memory: {
 		useLocalEmbeddings: false
 	},
-	envFilePath: '.env'
+	envFilePath: '.env',
+	
+
 };
